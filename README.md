@@ -15,7 +15,7 @@ We will ask a few questions and answer them with visuals and analysis to better 
 
 ##### Questions:
 1. What countries in the world are the happiest
-2. Is there a positive or negative correlation between GDP and happiness score?
+2. Is there a positive or negative correlation between Employment: Services (% of employed) and happiness score?
 3. Are the countries with higher population density happier than countries with lower density?
 
 ###### Datasets To Be Used: 
@@ -24,7 +24,7 @@ We will ask a few questions and answer them with visuals and analysis to better 
 3. https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles ( Country Statistics- UNData)
 
 ### Breakdown Of Tasks:
- Honorine- Is there a positive or negative correlation between GDP per capita(current US$) and happiness score?
+ Honorine- Is there a positive or negative correlation between Employment: Services (% of employed) and happiness score?
 
 Michelle- is there a correlation between population density and happiness score
 
