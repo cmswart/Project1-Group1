@@ -12,7 +12,7 @@
 In this project, we will analyze the World Happiness Report that was conducted in 2017. According to our datasets, from Kaggle.com: "The World Happiness Report is a landmark survey of the state of global happiness. The World Happiness 2017, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness."
 We will ask a few questions that we found interesting and answer them with visuals and give an analysis and conclusion of our findings.
 
-## Link to Presentation
+## Link to Presentation:
 https://docs.google.com/presentation/d/10DjA35ReyaE-UFpMKPTmBZELFhQeqUyDJk9jqKKRwLY/edit?usp=sharing
 
 ## Questions:
