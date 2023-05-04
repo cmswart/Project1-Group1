@@ -24,13 +24,16 @@ We will ask a few questions that we found interesting and answer them with visua
 3. https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles ( Country Statistics- UNData)
 
 ## Breakdown Of Tasks:
- Honorine- Is there a positive or negative correlation between Employment: Services (% of employed) and happiness score?
+
+Honorine- Is there a positive or negative correlation between Employment: Services (% of employed) and happiness score?
 
 Michelle- is there a correlation between population density and happiness score
 
 Cassie - Top 5 happiest countries and bottom 5 happiest countries
 
-Jordan - Presentation, implications of our findings, lessons learned
+Jordan - Presentation, implications of our findings, lessons learned and World map
 
 
-## Analysis
+## Analysis and Conclusion
+
+We analyzed the 2017 World Happiness Report. Our goal was to analyze the data and use the data to help find trends that will drive World Improvement Network's next venture. We used pandas to create DataFrame and to clean and format our datasets. We created a Jupyter notebook and Matplotlib illustrating the final data analysis and created visualizations for our data. We were able to identify top 5 happiest countries and bottom 5 countries. We also found out that there's a loose correlation between Population Density and Happiness Score, but there's a strong positive correlation between Employment: Services (% of employed) and the Happiness Score.
